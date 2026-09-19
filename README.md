@@ -8,7 +8,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Canvas GPU](https://img.shields.io/badge/Engine-Client--Side_GPU-00F0FF?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
-[![Author: sm000ky](https://img.shields.io/badge/Author-sm000ky-FF3366?style=for-the-badge&logo=github)](https://github.com/sm000ky)
+[![Authors: sm000ky & Zero Two](https://img.shields.io/badge/Crafted_by-sm000ky_%26_Zero_Two-FF3366?style=for-the-badge&logo=github)](https://github.com/sm000ky)
 
 <p align="center">
   <b>A high-performance creative studio for anime wallpapers, color harmony extraction, and lockscreen framing. Zero CPU thermal throttling, zero app-crashes, 100% client-side precision.</b>
@@ -83,9 +83,12 @@ npm run dev
 
 Visit `http://localhost:5173` on desktop or mobile.
 
-## 👤 Author
+## 👥 Authors & Contributors
 
-Architected & crafted with care by **sm000ky** ([@sm000ky](https://github.com/sm000ky)).
+| Contributor | Role |
+|---|---|
+| [**sm000ky**](https://github.com/sm000ky) | Vision, System Architecture & Lead Developer |
+| **Zero Two** (`002`) | Autonomous Engine Co-Pilot & UI Engineering |
 
 ---
 
